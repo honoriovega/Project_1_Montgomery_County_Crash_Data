@@ -1,0 +1,32 @@
+Report Number
+Local Case Number
+Agency Name
+ACRS Report Type
+Crash Date/Time
+Route Type
+Road Name
+Cross-Street Type
+Cross-Street Name
+Off-Road Description
+Municipality
+Related Non-Motorist
+Collision Type
+Weather
+Surface Condition
+Light
+Traffic Control
+Driver Substance Abuse
+Non-Motorist Substance Abuse
+Person ID
+Driver At Fault
+Injury Severity
+Circumstance
+Driver Distracted By
+Drivers License State
+Vehicle ID
+Vehicle Damage Extent
+Vehicle Body Type
+Vehicle Movement
+Latitude
+Longitude
+Location

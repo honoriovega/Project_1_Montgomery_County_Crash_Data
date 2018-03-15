@@ -27,12 +27,6 @@ nrow(dat) #65841
 length(dat) #32
 
 
-for(element in dat[0,]) {
-  print(typeof(element))
-}
-allNAindat = dat[is.na(dat),]
-print(length(allNAindat))
-
 # impute imissing data or remove
 # if numeric impute, otherwise drop
 
